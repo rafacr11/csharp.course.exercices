@@ -1,0 +1,16 @@
+C:\Users\night\source\repos\CourseEnumAndComp\CourseEnumAndComp\bin\Debug\net5.0\CourseEnumAndComp.exe
+C:\Users\night\source\repos\CourseEnumAndComp\CourseEnumAndComp\bin\Debug\net5.0\CourseEnumAndComp.deps.json
+C:\Users\night\source\repos\CourseEnumAndComp\CourseEnumAndComp\bin\Debug\net5.0\CourseEnumAndComp.runtimeconfig.json
+C:\Users\night\source\repos\CourseEnumAndComp\CourseEnumAndComp\bin\Debug\net5.0\CourseEnumAndComp.runtimeconfig.dev.json
+C:\Users\night\source\repos\CourseEnumAndComp\CourseEnumAndComp\bin\Debug\net5.0\CourseEnumAndComp.dll
+C:\Users\night\source\repos\CourseEnumAndComp\CourseEnumAndComp\bin\Debug\net5.0\ref\CourseEnumAndComp.dll
+C:\Users\night\source\repos\CourseEnumAndComp\CourseEnumAndComp\bin\Debug\net5.0\CourseEnumAndComp.pdb
+C:\Users\night\source\repos\CourseEnumAndComp\CourseEnumAndComp\obj\Debug\net5.0\CourseEnumAndComp.csprojAssemblyReference.cache
+C:\Users\night\source\repos\CourseEnumAndComp\CourseEnumAndComp\obj\Debug\net5.0\CourseEnumAndComp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\night\source\repos\CourseEnumAndComp\CourseEnumAndComp\obj\Debug\net5.0\CourseEnumAndComp.AssemblyInfoInputs.cache
+C:\Users\night\source\repos\CourseEnumAndComp\CourseEnumAndComp\obj\Debug\net5.0\CourseEnumAndComp.AssemblyInfo.cs
+C:\Users\night\source\repos\CourseEnumAndComp\CourseEnumAndComp\obj\Debug\net5.0\CourseEnumAndComp.csproj.CoreCompileInputs.cache
+C:\Users\night\source\repos\CourseEnumAndComp\CourseEnumAndComp\obj\Debug\net5.0\CourseEnumAndComp.dll
+C:\Users\night\source\repos\CourseEnumAndComp\CourseEnumAndComp\obj\Debug\net5.0\ref\CourseEnumAndComp.dll
+C:\Users\night\source\repos\CourseEnumAndComp\CourseEnumAndComp\obj\Debug\net5.0\CourseEnumAndComp.pdb
+C:\Users\night\source\repos\CourseEnumAndComp\CourseEnumAndComp\obj\Debug\net5.0\CourseEnumAndComp.genruntimeconfig.cache
