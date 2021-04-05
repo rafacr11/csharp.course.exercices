@@ -8,7 +8,8 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\night\\.nuget\\packages\\": {}
+    "C:\\Users\\night\\.nuget\\packages\\": {},
+    "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -19,8 +20,12 @@
       "packagesPath": "C:\\Users\\night\\.nuget\\packages\\",
       "outputPath": "C:\\Projetos\\Curso C#\\CourseEnumAndComp\\CourseEnumAndComp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\night\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
